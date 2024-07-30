@@ -31,7 +31,7 @@ The [abstracts of the talks](https://umi.dm.unibo.it/jm-umi-ams/wp-content/uploa
 
 - Giulio Peruginelli (Università di Padova, ITALY), [Nontriviality of rings of integral-valued polynomials](slides/peruginelli.pdf), joint work with Nicholas J. Werner (State Univ. of New York at Old Westbury, USA)
 
-- Paul Pollack (University of Georgia, USA), [The Ideal Theory and Arithmetic of Rings, Monoids, and Semigroups](slides/pollack.pdf)
+- Paul Pollack (University of Georgia, USA), [Elasticity of orders in quadratic fields](slides/pollack.pdf)
 
 - Harold Polo (University of California at Irvine, USA), [Integer-Valued Polynomials for Semidomains](slides/polo.pdf), joint work with Scott Chapman (Sam Houston State University, USA), and  Nathan Kaplan (University of California at Irvine, USA)
 
